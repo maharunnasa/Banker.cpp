@@ -26,7 +26,7 @@ The Banker's Algorithm is used in operating systems to allocate resources to pro
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/bankers-algorithm.git
+   git clone https://github.com/maharunnasa/bankers-algorithm.git
    cd bankers-algorithm
 
 ##Compile the program:
